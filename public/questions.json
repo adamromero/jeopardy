@@ -1,0 +1,76 @@
+{
+   "questions": [
+        {
+            "value" : "500",
+            "clue" : "Milky-colored from glacial clay when entering Lake Geneva, this river is clear blue upon exiting",
+            "choices" : ["The Nile", "The Rhone", "The Danube", "The Mississippi"],
+            "answer" : "The Rhone"
+        },
+        {
+            "value" : "800",
+            "clue" : "test1",
+            "choices" : ["The Nile", "The Rhone", "The Danube", "The Mississippi"],
+            "answer" : "yes"
+        },
+        {
+            "value" : "500",
+            "clue" : "This utensil formed of a series of looped wires set in a handle is used to beat air into food",
+            "choices" : ["The Nile", "The Rhone", "The Danube", "The Mississippi"],
+            "answer" : "Whisk"
+        },
+        {
+            "value" : "800",
+            "clue" : "test3",
+            "choices" : ["The Nile", "The Rhone", "The Danube", "The Mississippi"],
+            "answer" : "yes"
+        },
+        {
+            "value" : "500",
+            "clue" : "test4",
+            "choices" : ["The Nile", "The Rhone", "The Danube", "The Mississippi"],
+            "answer" : "yes"
+        },
+        {
+            "value" : "800",
+            "clue" : "test5",
+            "choices" : ["The Nile", "The Rhone", "The Danube", "The Mississippi"],
+            "answer" : "yes"
+        },
+        {
+            "value" : "500",
+            "clue" : "test6",
+            "choices" : ["The Nile", "The Rhone", "The Danube", "The Mississippi"],
+            "answer" : "yes"
+        },
+        {
+            "value" : "500",
+            "clue" : "test4",
+            "choices" : ["The Nile", "The Rhone", "The Danube", "The Mississippi"],
+            "answer" : "yes"
+        },
+        {
+            "value" : "800",
+            "clue" : "test5",
+            "choices" : ["The Nile", "The Rhone", "The Danube", "The Mississippi"],
+            "answer" : "yes"
+        },
+        {
+            "value" : "500",
+            "clue" : "test6",
+            "choices" : ["The Nile", "The Rhone", "The Danube", "The Mississippi"],
+            "answer" : "yes"
+        },
+		{
+            "value" : "500",
+            "clue" : "test4",
+            "choices" : ["The Nile", "The Rhone", "The Danube", "The Mississippi"],
+            "answer" : "yes"
+        },
+        {
+            "value" : "800",
+            "clue" : "test5",
+            "choices" : ["The Nile", "The Rhone", "The Danube", "The Mississippi"],
+            "answer" : "yes"
+        }
+   ]
+}

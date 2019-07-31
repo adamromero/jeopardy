@@ -7,7 +7,50 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+.board {
+    display: grid;
+    grid-template-columns: 16.6% 16.6% 16.6% 16.6% 16.6% 16.6%;
+}
+
+.board-clue {
+    background: blue;
+    height: 80px;
+    border: 2px solid black;
+    color: #f1be24;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.popup {
+    position: fixed;
+    width: 450px;
+    height: 300px;
+    padding: 20px;
+    box-sizing: border-box;
+    color: white;
+    background: blue;
+    border: 2px solid black;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(53, 49, 49, 0.8);
+}
+
+.clue {
+    margin: 0 0 20px;
 }
